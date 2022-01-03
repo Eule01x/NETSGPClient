@@ -3,7 +3,7 @@
 constexpr const uint8_t PROG_PIN = 4; /// Programming enable pin of RF module
 constexpr const uint8_t RX_PIN = 16; /// RX pin of RF module
 constexpr const uint8_t TX_PIN = 17; /// TX pin of RF module
-constexpr const uint32_t inverterID = 0x11002793; /// Identifier of your inverter (see label on inverter)
+constexpr const uint32_t inverterID = 0x72016689; /// Identifier of your inverter (see label on inverter)
 
 NETSGPClient client(Serial2, PROG_PIN); /// NETSGPClient instance
 
