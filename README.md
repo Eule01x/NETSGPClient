@@ -1,3 +1,6 @@
+# NETSGPClient for Hoymiles
+Trying to adapt the prjoect from atc1441 for my Hoymiles HM-600 converter
+
 # NETSGPClient
 Arduino Interface for cheap 2.4ghz RF enabled Solar Micro Inverters using the so-called NETSGP protocol for communication.
 
